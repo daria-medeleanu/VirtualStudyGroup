@@ -1,0 +1,2 @@
+Scrieti un enunt afirmativ.
+Am terminat functia de upload.
